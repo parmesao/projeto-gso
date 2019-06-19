@@ -1,0 +1,2 @@
+//listando arquivo
+dir *.*
